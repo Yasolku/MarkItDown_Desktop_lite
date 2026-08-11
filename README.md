@@ -1,5 +1,3 @@
-MarkItDown_Desktop_lite
-
 MarkItDown_Desktop_lite 是一款基于微软开源项目 MarkItDown 开发的轻量级桌面图形化工具。它为命令行工具提供了直观易用的 UI 界面，只需本地具备 Python 环境即可双击运行，轻松将各类文档一键转换为 Markdown 格式。
 
 💡 核心特性
