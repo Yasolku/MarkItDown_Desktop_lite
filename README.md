@@ -42,6 +42,7 @@ Python 3.x.x
 双击运行 MarkItDown_Desktop_lite.exe。
 选择或拖拽需要转换的文件，点击 开始转换。
 转换完成后即可预览与保存 Markdown 文件。
+
 🛠️ 适用场景
 
 LLM / RAG 数据预处理：快速将各类本地文档批量清洗为 Markdown 格式，方便喂给大语言模型或知识库。
