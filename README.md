@@ -47,9 +47,13 @@ https://www.python.org/downloads/
 
 按回车，打开命令提示符
 
+输入
+
 ```bash
 python --version
 ```
+
+回车
 
 正常显示：
 
