@@ -25,15 +25,23 @@ MarkItDown_Desktop_lite 是一款基于微软开源项目 MarkItDown 开发的�
 已安装 MarkItDown 核心依赖：pip install markitdown 
 
 使用步骤
-
-前往本仓库的 Releases 下载最新的 MarkItDown_Desktop_lite.exe。
-
+1. 安装 Python
+推荐：
+Python 3.12+
+Windows 10 / Windows 11
+下载：
+https://www.python.org/downloads/
+安装时请勾选：
+☑ Add Python to PATH
+安装完成后检查：
+python --version
+正常显示：
+Python 3.x.x
+即可。
+2. 前往本仓库的 Releases 下载最新的 MarkItDown_Desktop_lite.exe。
 双击运行 MarkItDown_Desktop_lite.exe。
-
 选择或拖拽需要转换的文件，点击 开始转换。
-
 转换完成后即可预览与保存 Markdown 文件。
-
 🛠️ 适用场景
 
 LLM / RAG 数据预处理：快速将各类本地文档批量清洗为 Markdown 格式，方便喂给大语言模型或知识库。
