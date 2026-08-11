@@ -43,7 +43,13 @@ https://www.python.org/downloads/
 
 安装完成后检查：
 
+按Win + R 输入： cmd
+
+按回车，打开命令提示符
+
+```bash
 python --version
+```
 
 正常显示：
 
